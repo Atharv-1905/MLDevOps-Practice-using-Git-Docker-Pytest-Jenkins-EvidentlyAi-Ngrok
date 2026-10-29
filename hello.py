@@ -13,7 +13,7 @@ def analyze_marks(marks):
 
 
 if __name__ == "__main__":
-    student_marks = [75, 80, 65]
+    student_marks = [35, 45, 23]
 
     average, result = analyze_marks(student_marks)
 
